@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
-    "prerequisites": [
-        "",
-        ""
-    ],
-    "related": [
-        "",
-        ""
-    ]
+  "title": "Numpy: Full",
+  "slug": "numpy-full",
+  "description": "Create arrays filled with the same value using np.full.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 2,
+  "prerequisites": [
+    "atomic-learning-python-cells-importing-packages",
+    "numpy-zeros"
+  ],
+  "related": [
+    "numpy-zeros"
+  ]
 }
