@@ -1,5 +1,3 @@
-# Numpy: Full
-
 You can create an array where every value is the same with `np.full()`.
 
 ```py-cell
