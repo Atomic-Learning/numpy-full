@@ -10,12 +10,14 @@
     "python",
     "numpy"
   ],
-  "duration": 2,
+  "duration": 1,
   "prerequisites": [
-    "atomic-learning-python-cells-importing-packages",
     "numpy-zeros"
   ],
   "related": [
     "numpy-zeros"
+  ],
+  "python_packages": [
+    "numpy"
   ]
 }
