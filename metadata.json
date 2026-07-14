@@ -12,7 +12,8 @@
   ],
   "duration": 1,
   "prerequisites": [
-    "numpy-zeros"
+    "numpy-arrays-with-multiple-dimensions",
+    "programming-calling-functions"
   ],
   "related": [
     "numpy-zeros"
